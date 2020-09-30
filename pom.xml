@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>leofuxiaohui_SilverKing</sonar.projectKey>
+  <sonar.organization>leofuxiaohui</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
